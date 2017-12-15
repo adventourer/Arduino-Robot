@@ -26,8 +26,6 @@ Parts list:
 
 Steps:
 
-Assemble the parts Assemble the robotics base kit & motors. Connect the battery pack to L298N motor driver. Refer to below illustration.
-
-// Insert picture here. 
+Assemble the parts Assemble the robotics base kit & motors. Connect the battery pack to L298N motor driver. Refer to illustration in wiki & uploaded .fzz (Fritzing) file .
 
 Code Refer to code placed in repository.
